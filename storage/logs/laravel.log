@@ -1,0 +1,1 @@
+[2023-12-18 14:11:19] local.ERROR: Target class [App\Http\Controllers\Users\Controller] does not exist. {"exception":"[object] (Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target class [App\\Http\\Controllers\\Users\\Controller] does not exist. at C:\\xampp\\htdocs\\example-app\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:879)
